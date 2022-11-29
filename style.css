@@ -1,0 +1,53 @@
+html{
+    background-image: url('https://www.pixelstalk.net/wp-content/uploads/2016/06/Free-HD-Gif-Wallpapers-For-Desktop.gif');
+    background-size: contain;
+    height: 100vh;
+    padding:0px;
+    margin:0px;
+}
+h1 {
+    text-align: center;
+    background-image: url('https://i.pinimg.com/736x/18/1c/d9/181cd9132f3c1c96d5beb322932add06--super-mario-portfolio.jpg');
+    background-size: 100px;   
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+div{
+    display: flex;
+    align-content: stretch;
+    background-image: url('https://i.pinimg.com/736x/18/1c/d9/181cd9132f3c1c96d5beb322932add06--super-mario-portfolio.jpg');
+    background-size: 30px;   
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    font-size: 13px;
+
+}
+h3{
+    background-image: url('https://i.pinimg.com/736x/18/1c/d9/181cd9132f3c1c96d5beb322932add06--super-mario-portfolio.jpg');
+    background-size: 30px;   
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    font-size: 20px;
+}
+p {
+   color: white;
+   
+   display: flex;
+}
+ol{
+    color: white;
+}
+div2{
+    display: flex;
+    align-content: stretch;
+    background-image: url('https://i.pinimg.com/736x/18/1c/d9/181cd9132f3c1c96d5beb322932add06--super-mario-portfolio.jpg');
+    background-size: 30px;   
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    font-size: 13px;
+
+}
